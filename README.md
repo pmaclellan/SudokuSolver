@@ -15,3 +15,5 @@ print the number of recursive iterations needed to solve that board. After all b
 been solved, print the average number of recursive calls needed to solve all the boards.
 Your algorithm should minimize the average number of recursive calls needed to solve all
 the boards.
+
+*Note: Implementation should be separated from .h files and put into .cpp, but there was some issue with the TA's getting linker errors or something so that's why it isn't.
